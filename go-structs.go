@@ -29,7 +29,7 @@ func main() {
 		speed: 21,
 		hp: 1000,
 		power: power { attack: 75, defense: 50 },
-		loc: location { x: 1075.123, y: 521.123, z: 211.231 }
+		loc: location { x: 1075.123, y: 521.123, z: 211.231 },
 	}
 
 	fmt.Println(demon)
@@ -42,5 +42,5 @@ func main() {
 		loc: location { x: 32.03, y: 72.45, z: 65.231 },
 	}
 
-	fmt.Println(anotherDemon)
+	fmt.Println(anotherDamon)
 }
