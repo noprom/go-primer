@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"hello/controllers"
+	"github.com/noprom/go-primer/beego/hello/controllers"
 	"github.com/astaxie/beego"
 )
 

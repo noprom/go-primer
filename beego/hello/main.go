@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "hello/routers"
+	_ "github.com/noprom/go-primer/beego/hello/routers"
 	"github.com/astaxie/beego"
 )
 
